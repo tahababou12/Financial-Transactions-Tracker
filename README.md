@@ -1,5 +1,4 @@
-# Financial-Transactions-Tracker
-Java-based Financial Transactions Backend with React Native Mobile App
+# Java-based Financial Transactions Backend with React Native Mobile App
 
 Objective: To create a Java-based backend for a simple financial transactions tracking app, and a React Native mobile app as the frontend. The Java backend should handle user authentication, transaction management, and account balances. The React Native app will allow users to view their transaction history and add new transactions.
 
